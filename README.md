@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Le Phuc Danh</h1>
 <h3 align="center">Sharing knowledge, expertise, and experiences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danhlecoder&label=Profile%20views&color=0e75b6&style=flat" alt="danhlecoder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danhlecoder" alt="danhlecoder" /></a> </p>
 
 - 🌱 I’m currently studying at **Industrial University of Ho Chi Minh City**
 
-<h3 align="left">🌐Connect with me :</h3>
+<h3 align="left"># 🌐Connect with me :</h3>
 <p align="left">
 <a href="https://fb.com/lephuc.danh.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lephuc.danh.73" height="30" width="40" /></a>
 <a href="https://discord.gg/lephuc.danh.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lephuc.danh.73" height="30" width="40" /></a>
@@ -25,10 +22,3 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danhlecoder&show_icons=true&locale=en&layout=compact" alt="danhlecoder" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danhlecoder&show_icons=true&locale=en" alt="danhlecoder" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danhlecoder&" alt="danhlecoder" /></p>
-
