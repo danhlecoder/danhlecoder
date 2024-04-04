@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently studying at **Industrial University of Ho Chi Minh City**
 
-<h3 align="left"># 🌐Connect with me :</h3>
-<p align="left">
+## 🌐Connect with me: 
 <a href="https://fb.com/lephuc.danh.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lephuc.danh.73" height="30" width="40" /></a>
 <a href="https://discord.gg/lephuc.danh.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lephuc.danh.73" height="30" width="40" /></a>
 </p>
