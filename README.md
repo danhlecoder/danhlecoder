@@ -1,23 +1,79 @@
-<h1 align="center">Hi 👋, I'm Le Phuc Danh</h1>
-<h3 align="center">Sharing knowledge, expertise, and experiences.</h3>
 
+<div align="center"> <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png"> </div>
 
-- 🌱 I’m currently studying at **Industrial University of Ho Chi Minh City**
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanh+Tin!;" />
+</h1>
 
-## 🌐Connect with me: 
-<a href="https://fb.com/lephuc.danh.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lephuc.danh.73" height="30" width="40" /></a>
-<a href="https://discord.gg/lephuc.danh.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lephuc.danh.73" height="30" width="40" /></a>
+<h3 align="center">I'm a Web Developer and UI/UX designer</h3>
+
+<br/>
+
+<div align="center">
+
+ 🌍 I'm based in Vietnamese 
+ 
+ 🔭 I’m currently working on **a chat app**
+
+ ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 
+ </div>
+
+<div align="center"> 
+  <a href="mailto:tintran11.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/thanhtin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://thanhtin4401.github.io/myWebSite/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+<h2 align="center">:money_with_wings: freelancer platform :money_with_wings:</h2>
+<div align="center">
+<a href="https://www.upwork.com/freelancers/~016168d191a73ccc35" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/y4bswMT02OROjzOPa5zDGsnXX5-cBABjF93j26seJH2cEHD4PuBW1d5VvwfYleeKf4_X" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.fiverr.com/thanh_tin?up_rollout=true" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/fiverr-new3326.jpg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.freelancer.com/u/TinTran11" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/freelancer-com-logo-2B5CE1A961-seeklogo.com.png" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.peopleperhour.com/freelancer/tin-tran-front-end-developer-zaxjymzw" target="_blank" rel="noreferrer"><img src="https://d1a29h5kxv3oc2.cloudfront.net/dist/img/pph-share.ced894418333eca244808771d4a24a87.png" width="36" height="36" alt="CSS3" /></a>
+</div>
+
+<p align="center">
+  <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
 </p>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,firebase,mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=react,angular,electron,next,javascript,typescript,d3,redux,styledcomponents" /><br>
+    <img src="https://skillicons.dev/icons?i=jenkins,bootstrap,mui,mysql,html,css,sass,tailwind,vscode,figma,xd,ps,git" />
+</div>
+  <br/><br/><br/>
+<hr/>
+<br>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
 
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=danhlecoder&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=danhlecoder&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danhlecoder&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<hr/>
+<br>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
+<div align=center>
+  <a href="#" title="thanhtin4401">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtin4401&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="thanhtin4401">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=thanhtin4401&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=danhlecoder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
