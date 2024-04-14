@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Phuc+Danh!;" />
 </h1>
 
-<h3 align="center">I'm a Web Developer and UI/UX designer</h3>
+<h3 align="center">I'm a student, majoring in Computer Science.</h3>
 
 <br/>
 
@@ -13,18 +13,16 @@
 
  🌍 I'm based in Vietnamese 
  
- 🔭 I’m currently working on **a chat app**
-
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 🔭 Currently, I'm studying and training at the **Industrial University of Ho Chi Minh City**.
  
  </div>
 
 <div align="center"> 
-  <a href="mailto:tintran11.work@gmail.com">
+  <a href="mailto:danhle.coder@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/thanhtin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://i.imgur.com/kNjM6pO.png" target="_blank" />
   </a>
   <a href="https://thanhtin4401.github.io/myWebSite/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
